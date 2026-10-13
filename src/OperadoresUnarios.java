@@ -17,7 +17,7 @@ public class OperadoresUnarios {
         System.out.println("Post-Incremento: " + (c++)); //10
         System.out.println("Pre-Incremento: " + (++c)); //12
         System.out.println("Post-Decremento: " + (c--)); //12
-        System.out.println("Pre-Incremento: " + (--c)); //12
+        System.out.println("Pre-Incremento: " + (--c)); //10
 
 
     }
